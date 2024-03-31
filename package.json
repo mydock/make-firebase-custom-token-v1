@@ -1,0 +1,14 @@
+{
+  "name": "make-firebase-custom-token",
+  "version": "1.0.0",
+  "description": "Host in Cloud Run to get CI custom token for SSO login",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [],
+  "author": "moander@outlook.com",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "firebase-admin": "^12.0.0"
+  }
+}
